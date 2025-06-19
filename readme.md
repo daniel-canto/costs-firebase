@@ -1,1 +1,1 @@
-Esse projeto está utilizando o Firebase Realtime Database Server para armazenamento e gerenciamento de dados
+Esse projeto está utilizando o Firebase Realtime Database para armazenamento e gerenciamento de dados
