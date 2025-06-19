@@ -1,0 +1,1 @@
+Esse projeto está utilizando o JSON Server para simular um backend
