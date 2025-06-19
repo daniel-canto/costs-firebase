@@ -1,1 +1,1 @@
-Esse projeto está utilizando o JSON Server para simular um backend
+Esse projeto está utilizando o Firebase Realtime Database Server para armazenamento e gerenciamento de dados
