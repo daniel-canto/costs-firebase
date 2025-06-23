@@ -15,31 +15,8 @@
           "cost": "500",
           "description": "Criar a funcao de envio de e-mails.",
           "id": "aee600bc-008d-4f21-88a3-5293aae8fcf9"
-        },
-        {
-          "name": "Testando",
-          "cost": "80",
-          "description": "Tetse",
-          "id": "43e6adce-46a2-448a-8d76-334400ebed1c"
-        },
-        {
-          "name": "teste 2",
-          "cost": "7",
-          "description": "Testando",
-          "id": "8fee05cf-df22-4397-ba15-f728ec4f2663"
         }
       ]
-    },
-    {
-      "id": "9097",
-      "name": "Projeto 2 atualizado novamente",
-      "budget": "8200",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 50,
-      "services": []
     },
     {
       "id": "602c",

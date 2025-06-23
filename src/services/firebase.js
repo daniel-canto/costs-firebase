@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import { getDatabase } from "firebase/database"; // ou getDatabase para Realtime Database
+import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
     apiKey: "AIzaSyDEG-URR45zDK4jI3-ASNGTe2YnVMD1ukA",
